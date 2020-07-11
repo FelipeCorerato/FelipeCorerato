@@ -19,5 +19,4 @@ My name is Felipe and I'm frontend developer.
 
 - 🎓 Computer Technician - Cotuca
 - 🥡 iFood frontend developer
-- 🌱 Currently learning Flutter
 - 💻 I love learning new technologies 
