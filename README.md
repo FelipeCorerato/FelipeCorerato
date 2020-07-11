@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub! 😃
 
 <!--
 **FelipeCorerato/FelipeCorerato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Felipe and I'm frontend developer.
+
+- 🎓 Computer Technician - Cotuca
+- 🥡 iFood frontend developer
+- 🌱 Currently learning Flutter
+- 💻 I love learning new technologies 
