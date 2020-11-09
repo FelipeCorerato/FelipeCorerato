@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 My name is Felipe and I'm frontend developer.
 
 - 🎓 Computer Technician - Cotuca
-- 🥡 iFood frontend developer
+- 🥡 iFood Junior Software Engineer
 - 💻 I love learning new technologies 
