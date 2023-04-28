@@ -5,7 +5,7 @@ I'm a frontend developer from Brazil 🇧🇷.
 
 - 🎓 Computer Technician - Cotuca (State University of Campinas)
 - 🎓 Bachelor of Information Systems - USP (University of Sâo Paulo)
-- 🥡 Junior Software Engineer @ iFood
+- 🥡 Middle Software Engineer @ iFood
 - 💻 I love learning new technologies 
 
 <h2>👨🏻‍💻 Things I'm working with</h2>
