@@ -3,7 +3,8 @@
 I'm a frontend developer from Brazil 🇧🇷.
 <!-- <img align="right" src="" width="200"/> -->
 
-- 🎓 Computer Technician - Cotuca
+- 🎓 Computer Technician - Cotuca (State University of Campinas)
+- 🎓 Bachelor of Information Systems - USP (University of Sâo Paulo)
 - 🥡 Junior Software Engineer @ iFood
 - 💻 I love learning new technologies 
 
