@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /> Hi there! I'm Felipe and welcome to my GitHub!
 
-I'm a frontend developer from Brazil 🇧🇷.
+I'm a software engineer from Brazil 🇧🇷.
 <!-- <img align="right" src="" width="200"/> -->
 
 - 🎓 Computer Technician - Cotuca (State University of Campinas)
