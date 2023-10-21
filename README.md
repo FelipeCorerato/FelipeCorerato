@@ -9,6 +9,18 @@ I'm a software engineer from Brazil 🇧🇷.
 - 💻 I love learning new technologies 
 
 <h2>👨🏻‍💻 Things I'm working with</h2>
+<h3>Personally</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeCorerato&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&icon=https://www.aberje.com.br/wp-content/uploads/2021/04/ifood1.png" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeCorerato&layout=compact&langs_count=6&theme=transparent" />
+</a>
+
+<h3>Professionally</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://gitlab-readme-stats.vercel.app/api?username=felipe.corerato&show_icons=true&show=["groups","mrs_merged"]" />
+</a>
 
 <h2>🌐 Where to find me</h2>
 <p>
