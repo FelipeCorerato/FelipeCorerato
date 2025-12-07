@@ -24,7 +24,7 @@ At iFood, I worked across projects involving product development, internal tooli
 Focused on **building features**, **improving developer experience**, **supporting product teams**, and **collaborating in cross-functional squads**.  
 My time there strengthened my skills in engineering quality, system reasoning and teamwork — and shaped a lot of how I work today.
 
-### 🟣 Lift Ventures — Software Engineer
+### 🔵 Lift Ventures — Software Engineer
 At Lift Ventures, I collaborate on the development of AI-powered solutions for the education sector.  
 I work across the stack, helping design and build tools that combine **AI**, **product discovery** and **modern web engineering**.  
 It’s a hands-on environment focused on experimentation, creativity and user-centered problem solving.
